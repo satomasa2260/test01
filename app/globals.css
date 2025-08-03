@@ -8,8 +8,10 @@
   }
   
   body {
-    font-family: 'Hiragino Sans', 'Yu Gothic', 'Meiryo', 'sans-serif';
+    font-family: 'Hiragino Sans', 'Yu Gothic', 'Meiryo', 'Noto Sans JP', 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
 }
 
